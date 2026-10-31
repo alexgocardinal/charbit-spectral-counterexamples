@@ -37,4 +37,4 @@ of Aharoni et al., Nonuniform Degrees and Rainbow Versions of the
 Caccetta–Häggkvist Conjecture, SIAM Journal on Discrete Mathematics
 37 (2023), 1704–1714.
 
-Priority for the spectral application remains under investigation.
+
